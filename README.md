@@ -7,8 +7,16 @@
 
   <h2>Features</h2>
   <ul>
-    <li>One</li>
+    <li>Medical appointment bookings</li>
+    <li>Online consultation</li>
+    <li>Give feedback (stores it)</li>
+    <li>View feedback from previous patients</li>
+    <li>Creates an exclusive account</li>
+    <li>Pharmacy</li>
   </ul>
+  
+  <h2>Features</h2>
+  <p> Java </p>
 
   </body>
   
