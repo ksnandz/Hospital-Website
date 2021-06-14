@@ -3,7 +3,7 @@
 
 <body>
   <h1>Hospital-Website</h1>
-  <p>A simple hospital website that has a variety of features.
+  <p>A simple hospital portal that has a variety of features.
 
   <h2>Features</h2>
   <ul>
