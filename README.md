@@ -20,7 +20,7 @@
 
   </body>
   
-  <h2>*Please Download BlueJ to run the code!<\h2>
+  <h2>*Please Download BlueJ to run the code!</h2>
     <a href="https://www.bluej.org">BlueJ</a>
   
 <html>
