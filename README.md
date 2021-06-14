@@ -1,9 +1,17 @@
-# Hospital-Website
-A simple hospital website that has a variety of features <em>java</em>
+<!DOCTYPE html>
+<html>
 
-<h1>Features</h1>
+<body>
+  <head>Hospital-Website</head>
+  <p>A simple hospital website that has a variety of features <em>java</em></p>
 
-<ul>
-  <li>One</li>
-</ul>
+  <h1>Features</h1>
+
+  <ul>
+    <li>One</li>
+  </ul>
+
+ </body>
+  
+<html>
 
